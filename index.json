@@ -8,7 +8,7 @@
   "actionpack": {
     "requires": [
       "action_controller",
-      "action_dispatch/testing/integration"
+      "action_dispatch/testing/integration" 
     ]
   },
   "actionview": {
